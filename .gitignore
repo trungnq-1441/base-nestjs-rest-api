@@ -35,3 +35,4 @@ lerna-debug.log*
 
 .env
 config/appsettings.json
+private.key
